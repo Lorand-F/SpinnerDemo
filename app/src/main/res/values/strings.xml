@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpinnerActivityDemo</string>
+    <string name="select_a_contry">Select a contry:</string>
+</resources>
